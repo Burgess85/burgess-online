@@ -1,0 +1,11 @@
+﻿burgessmail.co.uk/.well-known/cf-2fa-verify.txt with the content "l4c3t67r4zo7a8t0"
+
+
+
+
+burgessonline.co.uk/.well-known/cf-2fa-verify.txt with the content "zhm17qkrzfobuqgo"
+
+
+
+
+sexualsecrets.co.uk/.well-known/cf-2fa-verify.txt with the content "6le1wlm9frywxipc
